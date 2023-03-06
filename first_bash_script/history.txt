@@ -1,0 +1,1000 @@
+ 1024  ls
+ 1025  cd Desk
+ 1026  cd ..
+ 1027  ls
+ 1028  clear
+ 1029  ls
+ 1030  cd 
+ 1031  ls
+ 1032  clear
+ 1033  cd Desktop/
+ 1034  ls
+ 1035  clear
+ 1036  cd cis/
+ 1037  ls
+ 1038  cd server/
+ 1039  ls
+ 1040  cd app/
+ 1041  ls
+ 1042  cat models.py 
+ 1043  ls
+ 1044  clear
+ 1045  cd Desktop/
+ 1046  ls
+ 1047  clear
+ 1048  ls
+ 1049  mkdir first_farm_stack
+ 1050  ls
+ 1051  clear
+ 1052  ls
+ 1053  mv first_farm_stack/ FARM_stack
+ 1054  ls
+ 1055  clear
+ 1056  cd FARM_stack/
+ 1057  ls
+ 1058  clear
+ 1059  ls
+ 1060  clear
+ 1061  cd ..
+ 1062  ls
+ 1063  clear
+ 1064  mv FARM_stack/ farm_stack
+ 1065  ls
+ 1066  cd mnt
+ 1067  ls
+ 1068  cd /mt
+ 1069  cd /mnt/
+ 1070  ls
+ 1071  cd c/
+ 1072  ls
+ 1073  clear
+ 1074  cd ..
+ 1075  ls
+ 1076  clear
+ 1077  cd
+ 1078  ls
+ 1079  clea
+ 1080  ls
+ 1081  cd Desktop/
+ 1082  ls
+ 1083  code cis/
+ 1084  cd ..
+ 1085  ls
+ 1086  code farm_stack/
+ 1087  ls
+ 1088  cd Desktop/
+ 1089  ls
+ 1090  cd lil/
+ 1091  ls
+ 1092  cd learning-django/
+ 1093  ls
+ 1094  code .
+ 1095  git add .
+ 1096  git commit -m "added youtube-dl in python"
+ 1097  git push
+ 1098  ls
+ 1099  clear
+ 1100  sudo apt-get update
+ 1101  ls
+ 1102  clear
+ 1103  cd Downloads/
+ 1104  ls
+ 1105  clear
+ 1106  ls
+ 1107  cd ..
+ 1108  ls
+ 1109  clea
+ 1110  clear
+ 1111  ls
+ 1112  cd Downloads/
+ 1113  ls
+ 1114  cd ..
+ 1115  ls
+ 1116  cd Desktop/
+ 1117  ls
+ 1118  clear
+ 1119  code scripts/
+ 1120  ls
+ 1121  lsla
+ 1122  ls
+ 1123  cd farm_stack/
+ 1124  ls
+ 1125  clear
+ 1126  ls
+ 1127  clear
+ 1128  ls
+ 1129  youtube-dl https://www.youtube.com/watch?v=oGwszbCH5Z4
+ 1130  sudo apt-get purge youtube-dl 
+ 1131  sudo pip3 install youtube-dl
+ 1132  hash youtube-dl 
+ 1133  youtube-dl https://www.youtube.com/watch?v=oGwszbCH5Z4
+ 1134  ls
+ 1135  clear
+ 1136  ls
+ 1137  clear
+ 1138  ls
+ 1139  cd
+ 1140  ls
+ 1141  cd .python_venv/
+ 1142  ls
+ 1143  clear
+ 1144  ls
+ 1145  mkdir farm_stack_crud
+ 1146  ls
+ 1147  clear
+ 1148  history vev
+ 1149  history venv
+ 1150  ls
+ 1151  history venv -m
+ 1152  history | grep venv
+ 1153  clear
+ 1154  which python
+ 1155  ls
+ 1156  python -V
+ 1157  clear
+ 1158  python -m venv farm_stack_crud/
+ 1159  ls
+ 1160  history | grep source
+ 1161  ls
+ 1162  source farm_stack_crud/bin/activate
+ 1163  ls
+ 1164  clear
+ 1165  cd Desk
+ 1166  cd
+ 1167  ls
+ 1168  cd Desktop/k
+ 1169  cd Desktop/
+ 1170  ls
+ 1171  cd farm_stack/
+ 1172  ls
+ 1173  cd simple_crud_webapp/
+ 1174  ls
+ 1175  clear
+ 1176  ls
+ 1177  cd server/
+ 1178  ls
+ 1179  clear
+ 1180  pip install fastapi
+ 1181  pip install uvicorn
+ 1182  pip install motor
+ 1183  clear
+ 1184  freeze > requirements.txt
+ 1185  history | grep freeze
+ 1186  pip freeze requirements.txt 
+ 1187  pip freeze > requirements.txt 
+ 1188  kls
+ 1189  ls
+ 1190  cd Desktop/
+ 1191  ls
+ 1192  code cis/
+ 1193  ls
+ 1194  clear
+ 1195  cd Desktop/
+ 1196  ls
+ 1197  clear
+ 1198  ls
+ 1199  git clone git@github.com:sepsallao/centralized-farm-stack.git
+ 1200  ls
+ 1201  cd Cent
+ 1202  cd centralized-farm-stack/
+ 1203  ls
+ 1204  git checkout -b dev
+ 1205  git pull
+ 1206  git branch --set-upstream-to=origin/dev dev 
+ 1207  git pull
+ 1208  ls
+ 1209  mkdir server
+ 1210  ls
+ 1211  vim README.md 
+ 1212  git status
+ 1213  git checkout -b features/server-setup-v1
+ 1214  ls
+ 1215  clear
+ 1216  git add .
+ 1217  git branch
+ 1218  git commit -m "first push server setup v1"
+ 1219  ls
+ 1220  git push
+ 1221  git push --set-upstream origin features/server-setup-v1 
+ 1222  clear
+ 1223  git branch
+ 1224  clear
+ 1225  ls
+ 1226  code .
+ 1227  git add .
+ 1228  git commit -m "README v1"
+ 1229  git push
+ 1230  ls
+ 1231  git add .
+ 1232  git commit -m "server folder contents"
+ 1233  git push
+ 1234  ls
+ 1235  clear
+ 1236  ls
+ 1237  cd Desktop/
+ 1238  ls
+ 1239  cd centralized-farm-stack/
+ 1240  ls
+ 1241  cd ..
+ 1242  ls
+ 1243  mv centralized-farm-stack/ c_fs
+ 1244  ls
+ 1245  clear
+ 1246  ls
+ 1247  cd c_fs/
+ 1248  ls
+ 1249  clear
+ 1250  git branch
+ 1251  clear
+ 1252  git pull
+ 1253  code .
+ 1254  ls
+ 1255  clear
+ 1256  cd ..
+ 1257  ls
+ 1258  clear
+ 1259  cd ..
+ 1260  ls
+ 1261  clear
+ 1262  cd ..
+ 1263  ls
+ 1264  cd 
+ 1265  ls
+ 1266  clear
+ 1267  source .python_venv/
+ 1268  ls
+ 1269  clear
+ 1270  ls
+ 1271  clear
+ 1272  ls
+ 1273  cd .python_venv/
+ 1274  ls
+ 1275  clear
+ 1276  ls
+ 1277  mkdir c_fs
+ 1278  ls
+ 1279  clear
+ 1280  ls
+ 1281  python -m venv c_fs/
+ 1282  source c_fs/bin/activate
+ 1283  clear
+ 1284  ls
+ 1285  clear
+ 1286  which python
+ 1287  which python3
+ 1288  which pip
+ 1289  which pip3
+ 1290  clear
+ 1291  ls
+ 1292  clear
+ 1293  cd
+ 1294  ls
+ 1295  cd dE
+ 1296  cd Desktop/
+ 1297  ls
+ 1298  clear
+ 1299  ls
+ 1300  cd scripts/
+ 1301  ls
+ 1302  code .
+ 1303  ls
+ 1304  clear
+ 1305  ls
+ 1306  cd python/
+ 1307  ls
+ 1308  gedit README.md 
+ 1309  pip -V
+ 1310  pip3 -V
+ 1311  pip install -U pip
+ 1312  clear
+ 1313  freeze
+ 1314  pip freeze
+ 1315  cd
+ 1316  ls
+ 1317  cd Desktop/
+ 1318  ls
+ 1319  cd c_fs/
+ 1320  ls
+ 1321  clear
+ 1322  ls
+ 1323  clear
+ 1324  cd server/
+ 1325  ls
+ 1326  clear
+ 1327  git branch
+ 1328  clear
+ 1329  ls
+ 1330  clear
+ 1331  ls
+ 1332  cd ..
+ 1333  ls
+ 1334  clear
+ 1335  docker compose up -d --build
+ 1336  ls
+ 1337  clear
+ 1338  docker ps
+ 1339  docker-compose down
+ 1340  ls
+ 1341  clear
+ 1342  ls
+ 1343  cd ..
+ 1344  ls
+ 1345  cd farm_stack/
+ 1346  ls
+ 1347  cd simple_crud_webapp/
+ 1348  ls
+ 1349  cd server/
+ 1350  ls
+ 1351  cd ..
+ 1352  ls
+ 1353  cd..
+ 1354  cd ..
+ 1355  ls
+ 1356  clear
+ 1357  ls
+ 1358  cd ..
+ 1359  ls
+ 1360  clear
+ 1361  cd ..
+ 1362  cd 
+ 1363  ls
+ 1364  clear
+ 1365  cd Desktop/
+ 1366  ls
+ 1367  clear
+ 1368  cd cis/
+ 1369  ls
+ 1370  code .
+ 1371  ls
+ 1372  ps aux | grep 8000
+ 1373  kill 5253
+ 1374  ps aux | grep 8000
+ 1375  kill 5325
+ 1376  ps aux | grep 8000
+ 1377  ls
+ 1378  cd ..
+ 1379  ls
+ 1380  cd scripts/
+ 1381  code .
+ 1382  kill -1 5325
+ 1383  ps aux | grep 8000
+ 1384  kill $(pgrep -P $uvicorn_pid)
+ 1385  pgrep -P $uvicorn_pid
+ 1386  echo $uvicorn_pid
+ 1387  echo $uvicorn
+ 1388  lsof -i :8000
+ 1389  kill -9 5325
+ 1390  lsof -i :8000
+ 1391  cd
+ 1392  ls
+ 1393  cd Desktop/
+ 1394  ls
+ 1395  cd c_fs/
+ 1396  ls
+ 1397  cd server/
+ 1398  ls
+ 1399  clear
+ 1400  uvicorn main:app --reload
+ 1401  uvicorn app.main:app --reload
+ 1402  lsof -i :8000
+ 1403  lsof -i :5000
+ 1404  lsof -i :8000
+ 1405  uvicorn app.main:app --reload
+ 1406  lsof -i :5000
+ 1407  lsof -i :8000
+ 1408  ls
+ 1409  cd server/
+ 1410  ls
+ 1411  clear
+ 1412  ls
+ 1413  clear
+ 1414  ls
+ 1415  cd ..
+ 1416  ls
+ 1417  clear
+ 1418  ls
+ 1419  which python
+ 1420  clear
+ 1421  ls
+ 1422  clear
+ 1423  cd ~/.python_venv/
+ 1424  ls
+ 1425  source c_fs/bin/activate
+ 1426  clear
+ 1427  which python
+ 1428  which python3
+ 1429  which pip
+ 1430  which pip3
+ 1431  python -V
+ 1432  clear
+ 1433  ls
+ 1434  la
+ 1435  la -lh
+ 1436  cd
+ 1437  ls
+ 1438  clear
+ 1439  cd Desktop/
+ 1440  ls
+ 1441  clear
+ 1442  cd c_fs/
+ 1443  ls
+ 1444  clear
+ 1445  ls -lhat
+ 1446  touch .gitignore
+ 1447  ls
+ 1448  clear
+ 1449  ls
+ 1450  git add .
+ 1451  git commit -m "creating 1st verison of mongodb"
+ 1452  clear
+ 1453  ls
+ 1454  clear
+ 1455  ls
+ 1456  clear
+ 1457  cd server/
+ 1458  ls
+ 1459  clear
+ 1460  cd app/
+ 1461  ls
+ 1462  clear
+ 1463  ls
+ 1464  clear
+ 1465  ls
+ 1466  cd ..
+ 1467  ls
+ 1468  clear
+ 1469  ls
+ 1470  clear
+ 1471  ls
+ 1472  clear
+ 1473  pip install fastapi[all]
+ 1474  clear
+ 1475  pip freeze > requirements.txt
+ 1476  ls
+ 1477  clear
+ 1478  uvicorn app.main:app --host localhost --port 8000 --reload
+ 1479  uvicorn app.manage:app --host localhost --port 8000 --reload
+ 1480  ls
+ 1481  clear
+ 1482  ls
+ 1483  clear
+ 1484  uvicorn manage:app --host localhost --port 8000 --reload
+ 1485  docker ps
+ 1486  clear
+ 1487  uvicorn manage:app --host localhost --port 8000 --reload
+ 1488  uvicorn manage:api --host localhost --port 8000 --reload
+ 1489  ls
+ 1490  uvicorn app.main:api --host localhost --port 8000 --reload
+ 1491  uvicorn server.app.main:api --host localhost --port 8000 --reload
+ 1492  uvicorn server.app.main:api --host localhost --port 5000 --reload
+ 1493  uvicorn app.main:api --host localhost --port 5000 --reload
+ 1494  uvicorn  --host --reload
+ 1495  uvicorn main.app:app --reload
+ 1496  aux | grep 8000
+ 1497  ps aux | grep 8000
+ 1498  kill 5253
+ 1499  ps aux | grep 8000
+ 1500  ls
+ 1501  cd ..
+ 1502  ls
+ 1503  clear
+ 1504  uvicorn server.main.app:app --reload
+ 1505  uvicorn server.app.main:app --reload
+ 1506  ls
+ 1507  uvicorn server.app.main:app --reload
+ 1508  ls
+ 1509  git branch
+ 1510  ls
+ 1511  git add .
+ 1512  git commit -m "to be continued, fastAPI and uvicorn is not responding wsl2"
+ 1513  git push
+ 1514  ls
+ 1515  clear
+ 1516  source .python_venv/c_fs/bin/activate
+ 1517  ls
+ 1518  cd Desktop/
+ 1519  ls
+ 1520  cd c_fs/
+ 1521  ls
+ 1522  uvicorn server/app/main.py 
+ 1523  uvicorn server.app.main:app --reload
+ 1524  ls
+ 1525  clear
+ 1526  ls
+ 1527  clear
+ 1528  source .python_venv/c_fs/bin/activate~
+ 1529  ls
+ 1530  clear
+ 1531  ls
+ 1532  cd Desktop/
+ 1533  ls
+ 1534  cd c_fs/
+ 1535  ls
+ 1536  clear
+ 1537  ls
+ 1538  code .
+ 1539  ls
+ 1540  clear
+ 1541  ls
+ 1542  uvicorn server.app.main:app --reload
+ 1543  which uvicorn 
+ 1544  clear
+ 1545  ls
+ 1546  clea
+ 1547  clear
+ 1548  which python
+ 1549  clear
+ 1550  uvicorn manage:app --host localhost --port 8000 --reload
+ 1551  uvicorn server.manage:app --host localhost --port 8000 --reload
+ 1552  uvicorn server.app.main:app --host localhost --port 8000 --reload
+ 1553  uvicorn server.manage:app --reload
+ 1554  uvicorn server.app.main:app --reload
+ 1555  ls
+ 1556  clear
+ 1557  which uvicorn
+ 1558  clear
+ 1559  ls
+ 1560  source .python_venv/c_fs/bin/activate
+ 1561  ls
+ 1562  clear
+ 1563  cd Desktop/
+ 1564  ls
+ 1565  cd c_fs/
+ 1566  code .
+ 1567  uvicorn server.manage:app --reload
+ 1568  ls
+ 1569  cd Desktop/
+ 1570  ls
+ 1571  cd cis/
+ 1572  code .
+ 1573  ls
+ 1574  cd ..
+ 1575  ls
+ 1576  cd lil/
+ 1577  ls
+ 1578  cd learning-django/
+ 1579  ls
+ 1580  code my_site/
+ 1581  clear
+ 1582  ls
+ 1583  cd ..
+ 1584  ls
+ 1585  clear
+ 1586  ls
+ 1587  cd ..
+ 1588  ls
+ 1589  clear
+ 1590  ls
+ 1591  git clone git@github.com:fastapi-mvc/fastapi-mvc.git
+ 1592  ls
+ 1593  cd fastapi-mvc/
+ 1594  ls
+ 1595  docker ps
+ 1596  ls
+ 1597  clear
+ 1598  ls
+ 1599  cd ..
+ 1600  ls
+ 1601  clear
+ 1602  cd c_fs/
+ 1603  ls
+ 1604  clear
+ 1605  ls
+ 1606  neofetch
+ 1607  ls
+ 1608  cd 
+ 1609  cd Desktop/
+ 1610  ls
+ 1611  clear
+ 1612  ls
+ 1613  cd c_
+ 1614  cd c_fs/
+ 1615  ls
+ 1616  clear
+ 1617  cd server/
+ 1618  ls
+ 1619  clear
+ 1620  ls
+ 1621  clear
+ 1622  source venv/bin/activate
+ 1623  ls
+ 1624  clear
+ 1625  which python
+ 1626  ls
+ 1627  clear
+ 1628  ls
+ 1629  clear
+ 1630  cd ser
+ 1631  uvicorn server.maim:app --reload
+ 1632  uvicorn maim:app --reload
+ 1633  uvicorn main:app --reload
+ 1634  clear
+ 1635  ls
+ 1636  clear
+ 1637  ls
+ 1638  cd Desktop/
+ 1639  ls
+ 1640  clear
+ 1641  cd c_
+ 1642  cd c_fs/
+ 1643  ls
+ 1644  clear
+ 1645  ls
+ 1646  clear
+ 1647  docker ps
+ 1648  clear
+ 1649  ls
+ 1650  clear
+ 1651  docker ps
+ 1652  docker -v
+ 1653  ls
+ 1654  cd Desktop/
+ 1655  ls
+ 1656  cd scripts/
+ 1657  code .
+ 1658  docker-compose -V
+ 1659  docker-compose -v
+ 1660  docker-compose --version
+ 1661  which docker-compose
+ 1662  git -v
+ 1663  git
+ 1664  clear
+ 1665  git -v
+ 1666  git --version
+ 1667  ls
+ 1668  clear
+ 1669  cd Desktop/
+ 1670  ls
+ 1671  cd cis/
+ 1672  ls
+ 1673  cd ..
+ 1674  ls
+ 1675  stat cis/
+ 1676  stat -h cis/
+ 1677  stat --help
+ 1678  stat cis/
+ 1679  ls -lhat
+ 1680  cd cis/
+ 1681  ls
+ 1682  clear
+ 1683  ls
+ 1684  cd
+ 1685  ls
+ 1686  cd /mnt/c/
+ 1687  ls
+ 1688  cd Down
+ 1689  cd Users/sepsallao/Downloads/
+ 1690  ls
+ 1691  clear
+ 1692  ls
+ 1693  ls | grep pem
+ 1694  cd ..
+ 1695  cd Desktop/
+ 1696  cd work/
+ 1697  ls
+ 1698  cd 2_main/
+ 1699  ls
+ 1700  cd globe/
+ 1701  ls
+ 1702  mv cis_dev_env.pem ~
+ 1703  ls
+ 1704  cd ~
+ 1705  ls
+ 1706  cp cis_dev_env.pem /mnt/c/Users/sepsallao/Desktop/work/2_main/globe/projects/
+ 1707  clear
+ 1708  cd Desktop/
+ 1709  ls
+ 1710  cd ..
+ 1711  ls
+ 1712  clear
+ 1713  ls
+ 1714  cd .ssh/
+ 1715  ls
+ 1716  cd ..
+ 1717  ls
+ 1718  clear
+ 1719  mv cis_dev_env.pem .ssh/
+ 1720  ls
+ 1721  clear
+ 1722  cd .ssh/
+ 1723  ls
+ 1724  clear
+ 1725  chmod 400 cis_dev_env.pem 
+ 1726  ls
+ 1727  ls -lhat
+ 1728  ssh -i "cis_dev_env.pem" ec2-user@ec2-13-229-236-195.ap-southeast-1.compute.amazonaws.com
+ 1729  ls
+ 1730  cd ..
+ 1731  ls
+ 1732  which python
+ 1733  clear
+ 1734  python -V
+ 1735  clear
+ 1736  python test.py 
+ 1737  ls
+ 1738  cd Desktop/
+ 1739  ls
+ 1740  cd cis/
+ 1741  ls
+ 1742  clear
+ 1743  code .
+ 1744  ls
+ 1745  clear
+ 1746  ls
+ 1747  cd Desktop/
+ 1748  ls
+ 1749  clear
+ 1750  cd c_fs/
+ 1751  ls
+ 1752  clear
+ 1753  ls
+ 1754  celear
+ 1755  clear
+ 1756  ls
+ 1757  clear
+ 1758  ls
+ 1759  clear
+ 1760  ls
+ 1761  docker ps
+ 1762  ls
+ 1763  clear
+ 1764  ls
+ 1765  code .
+ 1766  ls
+ 1767  clear
+ 1768  ls
+ 1769  clear
+ 1770  ls
+ 1771  cd server/
+ 1772  ls
+ 1773  clear
+ 1774  ls
+ 1775  clear
+ 1776  ls
+ 1777  cd Desktop/
+ 1778  ls
+ 1779  clear
+ 1780  cd cis/
+ 1781  ls
+ 1782  clear
+ 1783  code .
+ 1784  ls
+ 1785  clear
+ 1786  cd ..
+ 1787  ls
+ 1788  clear
+ 1789  ls
+ 1790  clear
+ 1791  ls
+ 1792  mv test.py from_test.py
+ 1793  l;s
+ 1794  ls
+ 1795  clear
+ 1796  ls
+ 1797  clear
+ 1798  cd c_fs/
+ 1799  code .
+ 1800  ls
+ 1801  clear
+ 1802  ls
+ 1803  cd ..
+ 1804  ls
+ 1805  clear
+ 1806  ls
+ 1807  mkdir upwork
+ 1808  ls
+ 1809  clear
+ 1810  ls
+ 1811  cd upwork/
+ 1812  ls
+ 1813  clear
+ 1814  ls
+ 1815  mkdir j_class
+ 1816  ls
+ 1817  clear
+ 1818  ls
+ 1819  cd j_class/
+ 1820  ls
+ 1821  clear
+ 1822  git clone git@github.com:openjdk/jdk.git
+ 1823  ls
+ 1824  clear
+ 1825  sudo apt-get update
+ 1826  clear
+ 1827  sudoe apt-get install autoconf
+ 1828  sudo apt-get install autoconf
+ 1829  sudo apt-get install gcc
+ 1830  sudo apt-get install make
+ 1831  sudo apt-get install build-essential
+ 1832  sudo apt-get install zip
+ 1833  sudo apt-get install unzip
+ 1834  clear
+ 1835  sudo apt-get install libx11-dev libxext-dev libxrender-dev libxtst-dev
+ 1836  sudo apt autoremove
+ 1837  clear
+ 1838  sudo apt-get install autoconf gcc make build-essential zip unzip
+ 1839  sudo apt-get install libx11-dev libxext-dev libxrender-dev libxtst-dev
+ 1840  sudo apt-get install libcups2-dev
+ 1841  sudo apt-get install libfontconfig1-dev
+ 1842  sudo apt-get install libasound2-dev
+ 1843  sudo apt-get install ccache
+ 1844  ls
+ 1845  clear
+ 1846  cd jdk/
+ 1847  ls
+ 1848  bash configure
+ 1849  bash configure --build=x86_64-unknown-linux-gnu --
+ 1850  ks
+ 1851  ls
+ 1852  cd ..
+ 1853  ls
+ 1854  clear
+ 1855  ks
+ 1856  ls
+ 1857  cd jdk/
+ 1858  ls
+ 1859  cd build/
+ 1860  ls
+ 1861  stat linux-x86_64-server-release/
+ 1862  cd ,,
+ 1863  ks
+ 1864  ckear
+ 1865  ls
+ 1866  clear
+ 1867  cd ..
+ 1868  l
+ 1869  ls
+ 1870  clear
+ 1871  ls
+ 1872  make images
+ 1873  ls
+ 1874  cd build/
+ 1875  ls
+ 1876  rm linux-x86_64-server-release/
+ 1877  rm -rf linux-x86_64-server-release/
+ 1878  ls
+ 1879  clear
+ 1880  cd ..
+ 1881  ls
+ 1882  bash configure --build=x86_64-unknown-linux-gnu --
+ 1883  cd build/
+ 1884  ls
+ 1885  rm linux-x86_64-server-release/
+ 1886  rm -rf \linux-x86_64-server-release/
+ 1887  clear
+ 1888  bash configure --build=x86_64-unknown-linux-gnu --host=x86_64-unknown-linux-gnu
+ 1889  cd ..
+ 1890  bash configure --build=x86_64-unknown-linux-gnu --host=x86_64-unknown-linux-gnu
+ 1891  ls
+ 1892  clear
+ 1893  wget
+ 1894  ls
+ 1895  cd Downloads/
+ 1896  l;s
+ 1897  ls
+ 1898  clear
+ 1899  mkdir jdk
+ 1900  ls
+ 1901  cd jdk/
+ 1902  ls
+ 1903  clear
+ 1904  mkdir 19
+ 1905  ls
+ 1906  clear
+ 1907  cd 19/
+ 1908  ls
+ 1909  clear
+ 1910  wget https://download.oracle.com/java/19/latest/jdk-19_linux-x64_bin.deb
+ 1911  ls
+ 1912  sudo apt-get install ./jdk-19_linux-x64_bin.deb 
+ 1913  ls
+ 1914  ls
+ 1915  clear
+ 1916  ls
+ 1917  cd desktop/
+ 1918  ls
+ 1919  cd upwork/
+ 1920  ls
+ 1921  cd ..
+ 1922  ls
+ 1923  clear
+ 1924  mv upwork/ ../
+ 1925  cd ..
+ 1926  rm -rf desktop/
+ 1927  ls
+ 1928  mv upwork/ Desktop/
+ 1929  sudo mv upwork/ Desktop/
+ 1930  sudo mv -rf upwork/ Desktop/
+ 1931  sudo mv -r upwork/ Desktop/
+ 1932  sudo mv -f upwork/ Desktop/
+ 1933  ls
+ 1934  cd Desktop/
+ 1935  ls
+ 1936  cd ..
+ 1937  ls
+ 1938  cd upwork/
+ 1939  ls
+ 1940  cd j_class/
+ 1941  ls
+ 1942  cd jdk/
+ 1943  ls
+ 1944  cd build/
+ 1945  ls
+ 1946  cd Des
+ 1947  cd ~/Desktop/
+ 1948  ls
+ 1949  cd upwork/
+ 1950  ls
+ 1951  cd j_class/
+ 1952  ls
+ 1953  cd jdk/
+ 1954  ls
+ 1955  cd build/
+ 1956  ls
+ 1957  cd
+ 1958  ls
+ 1959  rm upwork/
+ 1960  rm -rf upwork/
+ 1961  ls
+ 1962  cd Desktop/
+ 1963  ls
+ 1964  cd Desktop/
+ 1965  ls
+ 1966  clear
+ 1967  ls
+ 1968  cd cd upwork/
+ 1969  ls
+ 1970  cd upwork/
+ 1971  ls
+ 1972  cd j_class/
+ 1973  ls
+ 1974  cd openjdk/
+ 1975  ls
+ 1976  cd jdk_v20.20/
+ 1977  ls
+ 1978  cd jdk/
+ 1979  ls
+ 1980  cd by
+ 1981  cd build/
+ 1982  ls
+ 1983  cd linux-x86_64-server-release/
+ 1984  ls
+ 1985  clear
+ 1986  cd images/
+ 1987  ls
+ 1988  cd jdk/
+ 1989  ls
+ 1990  cd ..
+ 1991  ls
+ 1992  cd ..
+ 1993  ls
+ 1994  lx
+ 1995  ls
+ 1996  cd ..
+ 1997  ls
+ 1998  clear
+ 1999  explorer.exe 
+ 2000  explorer.exe .
+ 2001  ls
+ 2002  cd Desktop/
+ 2003  ls
+ 2004  clear
+ 2005  ls
+ 2006  mkdir bash-scripts
+ 2007  ls
+ 2008  clear
+ 2009  cd mk
+ 2010  cd bash-scripts/
+ 2011  ls
+ 2012  clear
+ 2013  cd ..
+ 2014  mv bash-scripts/ bash_scripts/
+ 2015  cd bash_scripts/
+ 2016  ls
+ 2017  clear
+ 2018  ls
+ 2019  clear
+ 2020  vim runme.sh
+ 2021  chmod +x runme.sh 
+ 2022  ./runme.sh 
+ 2023  history > history.txt
